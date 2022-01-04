@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raghav Jain
-- 👀 I’m interested in Cloud Computing and Cloud Security - Multi Cloud
-- 🌱 I’m currently learning Azure Cloud Platform and Security
+- 👀 I’m interested in Cloud Computing, Analytics and Cloud Security - Multi Cloud
+- 🌱 I’m currently working with Amazon in the Analytics Profile.
 - 📫 How to reach me - jain0499@gmail.com, jain4799@outlook.com
 
 <!---
